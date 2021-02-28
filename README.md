@@ -24,7 +24,7 @@ node index.js
 ## 🤔 How to change the application name?
 - Go into https://discord.com/developers/applications/
 - Add a new application
-- Download nothing.png
+- Download **nothing.png**
 - Set nothing.png as your application image
 - Put your application id on clientId at index.js
 
