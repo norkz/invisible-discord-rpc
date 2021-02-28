@@ -6,7 +6,7 @@
 - Go into this folder
 - Open terminal
 
-(if you don't have yarn, sudo apt install yarn / sudo pacman -S yarn)
+(if you dont have yarn, sudo apt install yarn / sudo pacman -S yarn)
 yarn add discord-rpc
 npm install discord-rpc
 npm init -y
