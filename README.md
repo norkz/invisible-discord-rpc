@@ -7,8 +7,9 @@
 - Extract the files into a folder
 - Go into this folder
 - Open terminal
-
-(if you dont have yarn, sudo apt install yarn / sudo pacman -S yarn)
+```
+(if you dont have yarn, sudo apt install yarn <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="13"> sudo pacman -S yarn <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="13">) 
+```
 yarn add discord-rpc
 npm install discord-rpc
 npm init -y
