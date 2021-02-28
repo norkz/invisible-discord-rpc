@@ -1,8 +1,8 @@
 # Invisible Discord RPC with Buttons! <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="30">
 
-## Technologies <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="20">
+## 🚀 Technologies <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="20">
 
-## Setting up
+## 🔧 Setting up
 ```sh
 - Extract the files into a folder
 - Go into this folder
@@ -15,7 +15,7 @@ npm init -y
 npm i
 ```
 
-## Running
+## ⚙️ Running
 ```sh
 node index.js
 ```
@@ -27,7 +27,7 @@ node index.js
 - Set nothing.png as your application image
 - Put your application id on clientId at index.js
 
-## How can i change buttons?
+## 🤔 How can i change buttons?
 If you want join match button with the invite to play feature,
 - Remove buttons from index.js
 - Add: `'partyMax':1,'partySize':0,'joinSecret':'random','matchSecret':'random'` into your setActivity.
@@ -41,7 +41,6 @@ If you want join match button with the invite to play feature,
 = Maximum 2.
 
 *How my profile will looks like?*
-
 = 
 
 [![Profile](https://i.imgur.com/AK1z37c.png)](https://github.com/norkz)
