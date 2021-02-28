@@ -8,7 +8,7 @@
 - Go into this folder
 - Open terminal
 ```
-(if you dont have yarn, sudo apt install yarn <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="13"> sudo pacman -S yarn <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="13">) 
+(if you dont have yarn, sudo apt install yarn <a href="https://ubuntu.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="13"></a> sudo pacman -S yarn <a href="https://archlinux.org/"><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="13"></a>) 
 ```
 yarn add discord-rpc
 npm install discord-rpc
@@ -21,7 +21,7 @@ npm i
 node index.js
 ```
 
-## How to change the application name?
+## 🤔 How to change the application name?
 - Go into https://discord.com/developers/applications/
 - Add a new application
 - Download nothing.png
